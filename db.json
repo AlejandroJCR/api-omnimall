@@ -82,7 +82,8 @@
             "rating": {
                 "rate": 4.6,
                 "count": 400
-            }
+            },
+            "styles":[]
         },
         {
             "id": 6,
@@ -94,7 +95,8 @@
             "rating": {
                 "rate": 3.9,
                 "count": 70
-            }
+            },
+            "styles":[]
         },
         {
             "id": 7,
@@ -106,7 +108,8 @@
             "rating": {
                 "rate": 3,
                 "count": 400
-            }
+            },
+            "styles":[]
         },
         {
             "id": 8,
@@ -118,7 +121,8 @@
             "rating": {
                 "rate": 1.9,
                 "count": 100
-            }
+            },
+            "styles":[]
         },
         {
             "id": 9,
@@ -130,7 +134,8 @@
             "rating": {
                 "rate": 3.3,
                 "count": 203
-            }
+            },
+            "styles":[]
         },
         {
             "id": 10,
@@ -142,7 +147,8 @@
             "rating": {
                 "rate": 2.9,
                 "count": 470
-            }
+            },
+            "styles":[]
         },
         {
             "id": 11,
@@ -154,7 +160,8 @@
             "rating": {
                 "rate": 4.8,
                 "count": 319
-            }
+            },
+            "styles":[]
         },
         {
             "id": 12,
@@ -166,7 +173,8 @@
             "rating": {
                 "rate": 4.8,
                 "count": 400
-            }
+            },
+            "styles":[]
         },
         {
             "id": 13,
@@ -178,7 +186,8 @@
             "rating": {
                 "rate": 2.9,
                 "count": 250
-            }
+            },
+            "styles":[]
         },
         {
             "id": 14,
@@ -190,7 +199,8 @@
             "rating": {
                 "rate": 2.2,
                 "count": 140
-            }
+            },
+            "styles":[]
         },
         {
             "id": 15,

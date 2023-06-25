@@ -54,7 +54,9 @@
                 "rate": 2.1,
                 "count": 430
             },
-            "styles":{}
+            "styles":{
+                "size": ["S", "M", "L", "XL"]
+            }
         },
         {
             "id": 5,
